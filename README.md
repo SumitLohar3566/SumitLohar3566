@@ -5,13 +5,11 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about turning raw data into actionable insights. I build dashboards, analyze datasets, and create AI-driven solutions to solve real-world problems. Currently focusing on Data Analysis, Machine Learning, and Automation projects.  
-
-- 🔭 I’m currently working on **Political Analysis Dashboard** & **Skin Disease Detection System**
-- 🌱 I’m learning advanced **Power BI, Python Automation, and AI Integration**
-- 👯 I’m looking to collaborate on **Data Analytics and AI projects**
-- 💬 Ask me about **SQL, Power BI, Python, and Dashboard Design**
-- 📫 Reach me at **sumit.lohar@example.com**
+📌 Currently learning **Advanced Machine Learning**  
+✅ Completed **Python, Power BI, MySQL, Advanced Excel, ML, DL**  
+💡 Interested in **Data Analysis, Business Intelligence, Automation & ML**  
+🤖 Experienced in building **AI models** using ML algorithms like **Regression, Classification, and Predictive Analytics**  
+🎯 Goal: To build **impactful dashboards** and **intelligent data-driven solutions**  
 
 ---
 
@@ -40,14 +38,10 @@ I'm passionate about turning raw data into actionable insights. I build dashboar
 | **Job Scraper & Analyzer** | Extract and analyze job postings using Python | Python, Web Scraping | https://github.com/SumitLohar3566/Job_Recomendation_System |
 | **WP Chat Analyzer** | Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends | Python, Pandas, Matplotlib | https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer |
 | **Currency Converter App** | Real-time currency conversion application using API integration | Python, Streamlit, Requests | https://github.com/SumitLohar3566/Currency_Converter |
-## 📊 GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitLohar3566&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/sumit-lohar-498341317/
 - Email:sumitlohar063@gmail.com
 
 ---

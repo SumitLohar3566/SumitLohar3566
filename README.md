@@ -35,7 +35,6 @@
 | **Political Analysis Dashboard** | Analyze political trends, visualize election data and insights | Power BI, SQL | https://github.com/SumitLohar3566/Political-Election-Analysis-Dashboard |
 | **Skin Disease Detection System** | AI model to detect skin diseases from images | Python, OpenCV, ML | https://github.com/SumitLohar3566/Skin_Health_Pro |
 | **Mobile Sales Dashboard** | Analyze mobile sales data with KPIs and charts | Power BI, Python | https://github.com/SumitLohar3566/Mobile-Sales-Analysis-Dashboard|
-| **Job Scraper & Analyzer** | Extract and analyze job postings using Python | Python, Web Scraping | https://github.com/SumitLohar3566/Job_Recomendation_System |
 | **WP Chat Analyzer** | Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends | Python, Pandas, Matplotlib | https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer |
 | **Currency Converter App** | Real-time currency conversion application using API integration | Python, Streamlit, Requests | https://github.com/SumitLohar3566/Currency_Converter |
 

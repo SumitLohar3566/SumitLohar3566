@@ -28,15 +28,27 @@
 
 ---
 
-## 💼 Projects
+📁 Projects
+Project	Description	Tech Stack	Demo / Repo
+Political Analysis Dashboard	Analyze political trends, visualize election data and insights	Power BI, SQL	https://github.com/SumitLohar3566/Political-Election-Analysis-Dashboard
 
-| Project | Description | Tech Stack | Demo / Repo |
-|---------|-------------|------------|-------------|
-| **Political Analysis Dashboard** | Analyze political trends, visualize election data and insights | Power BI, SQL | https://github.com/SumitLohar3566/Political-Election-Analysis-Dashboard |
-| **Skin Disease Detection System** | AI model to detect skin diseases from images | Python, OpenCV, ML | https://github.com/SumitLohar3566/Skin_Health_Pro |
-| **Mobile Sales Dashboard** | Analyze mobile sales data with KPIs and charts | Power BI, Python | https://github.com/SumitLohar3566/Mobile-Sales-Analysis-Dashboard|
-| **WP Chat Analyzer** | Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends | Python, Pandas, Matplotlib | https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer |
-| **Currency Converter App** | Real-time currency conversion application using API integration | Python, Streamlit, Requests | https://github.com/SumitLohar3566/Currency_Converter |
+Skin Disease Detection System	AI model to detect skin diseases from images	Python, OpenCV, ML	https://github.com/SumitLohar3566/Skin_Health_Pro
+
+Mobile Sales Dashboard	Analyze mobile sales data with KPIs and interactive charts	Power BI, Python	https://github.com/SumitLohar3566/Mobile-Sales-Analysis-Dashboard
+
+WP Chat Analyzer	Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends	Python, Pandas, Matplotlib	https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer
+
+Currency Converter App	Real-time currency conversion application using API integration	Python, Streamlit, Requests	https://github.com/SumitLohar3566/Currency_Converter
+
+Job Recommendation System	Machine learning–based system that recommends jobs based on user skills and preferences	Python, ML, NLP	https://github.com/SumitLohar3566/Job_Recommendation_System
+
+Currency Converter Model	ML-based currency conversion model with predictive capabilities	Python, ML	https://github.com/SumitLohar3566/Currency_Converter_Model
+
+SkyJet Pro	Advanced flight booking and management system with real-time features	Python, Streamlit	https://github.com/SumitLohar3566/SkyJet_Pro
+
+Dynamic Speed Limit System	Intelligent system to dynamically adjust speed limits based on traffic and conditions	Python, IoT, ML	https://github.com/SumitLohar3566/Dynamic-Speed-Limit-System
+
+Love Calculator	Fun application to calculate compatibility using input parameters	Python	https://github.com/SumitLohar3566/Love_Calculator
 
 
 ## 📫 Connect with Me

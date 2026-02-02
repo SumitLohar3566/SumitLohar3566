@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Sumit Lohar
+# Hi there , I'm Sumit Lohar
 
 **Aspiring Data Analyst & Developer | Power BI | Python | SQL | Data-Driven Solutions**
 
 ---
 
-## 🚀 About Me
-📌 Currently learning **Advanced Machine Learning**  
-✅ Completed **Python, Power BI, MySQL, Advanced Excel, ML, DL**  
-💡 Interested in **Data Analysis, Business Intelligence, Automation & ML**  
-🤖 Experienced in building **AI models** using ML algorithms like **Regression, Classification, and Predictive Analytics**  
-🎯 Goal: To build **impactful dashboards** and **intelligent data-driven solutions**  
+##  About Me
+- Currently learning **Advanced Machine Learning**  
+- Completed **Python, Power BI, MySQL, Advanced Excel, ML, DL**  
+- Interested in **Data Analysis, Business Intelligence, Automation & ML**  
+- Experienced in building **AI models** using ML algorithms like **Regression, Classification, and Predictive Analytics**  
+- Goal: To build **impactful dashboards** and **intelligent data-driven solutions**  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-📁 Projects
+- Projects
 | Project                           | Description                                                                             | Tech Stack                       | Demo / Repo                                                                                                                                        |
 | --------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **WP Chat Analyzer**              | Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends  | Python, Pandas, Matplotlib       | [https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer](https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer)                               |
@@ -43,13 +43,13 @@
 | **Love Calculator**               | Fun application to calculate compatibility using input parameters                       | Python                           | [https://github.com/SumitLohar3566/Love_Calculator](https://github.com/SumitLohar3566/Love_Calculator)                                             |
 
 
-## 📫 Connect with Me
+##  Connect with Me
 - LinkedIn: https://www.linkedin.com/in/sumit-lohar-498341317/
 - Email:sumitlohar063@gmail.com
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 - Power BI Advanced Analytics (Microsoft / Udemy / Coursera)
 - Python for Data Science [NPTEL]
 

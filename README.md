@@ -27,8 +27,8 @@
 - Problem Solving & Logical Thinking
 
 ---
+### Projects:
 
-- Projects
 | Project                           | Description                                                                             | Tech Stack                       | Demo / Repo                                                                                                                                        |
 | --------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **WP Chat Analyzer**              | Analyze WhatsApp chat data to extract insights like top contacts, messages, and trends  | Python, Pandas, Matplotlib       | [https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer](https://github.com/SumitLohar3566/WhatsApp_Chat_Analyzer)                               |
@@ -41,6 +41,7 @@
 | **Currency Converter App**        | Real-time currency conversion application using API integration                         | Python, Streamlit, Requests      | [https://github.com/SumitLohar3566/Currency_Converter](https://github.com/SumitLohar3566/Currency_Converter)                                       |
 | **Currency Converter Model**      | Machine learning–based currency conversion and prediction model                         | Python, Machine Learning         | [https://github.com/SumitLohar3566/Currency_Converter_Model](https://github.com/SumitLohar3566/Currency_Converter_Model)                           |
 | **Love Calculator**               | Fun application to calculate compatibility using input parameters                       | Python                           | [https://github.com/SumitLohar3566/Love_Calculator](https://github.com/SumitLohar3566/Love_Calculator)                                             |
+                                         |
 
 
 ##  Connect with Me
